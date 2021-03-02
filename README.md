@@ -1,3 +1,3 @@
 # LauncherProject
-By creariax
+By creariax,
 Majestic Foxy
